@@ -1,6 +1,6 @@
 INeuBytes Data Science Projects August 2023
 
-Deepanshi_DSINBJL23_Aug_2023
+Deepanshi_INBT02167_Aug_2023
 
 Task 1: Heart Disease Classification Description The "Heart Disease Analysis" project is a data analysis and classification initiative that aims to predict the presence or absence of heart disease based on a variety of patient characteristics and various criteria to find that if a person is suffering from heart disease or not. The research aims to construct a machine learning model for early identification and risk assessment of heart disease using a dataset combining demographic, clinical, and laboratory information of patients.
 
